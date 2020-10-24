@@ -3,3 +3,5 @@ This is a test file for practicing git.
 update 1 - testing work flow
 
 update 2 - getting used to the flow
+
+update 3 - self practice
