@@ -5,3 +5,5 @@ update 1 - testing work flow
 update 2 - getting used to the flow -- add / rm / commit
 
 update 3 - self practice -- status
+
+update 4 - git diff
